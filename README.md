@@ -118,8 +118,11 @@ Primary key decisions are documented in the notebook alongside each table creati
 -----------------------
 
 ├── event_data/                  # Raw CSV event files
+
 ├── event_datafile_new.csv        # Transformed dataset
+
 ├── Project_1B_*.ipynb            # ETL and Cassandra notebook
+
 ├── README.md                     # Project documentation
 
 
@@ -147,3 +150,7 @@ Primary key decisions are documented in the notebook alongside each table creati
 *   Reinforces the importance of partitioning and clustering strategies.
     
 *   Provides a scalable approach to analyzing user behavior in a streaming application.
+
+### 👤 Author
+
+**Saad Iqbal**
