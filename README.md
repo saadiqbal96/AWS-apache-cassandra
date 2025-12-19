@@ -117,7 +117,11 @@ Primary key decisions are documented in the notebook alongside each table creati
 📁 Repository Structure
 -----------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   ├── event_data/                  # Raw CSV event files  ├── event_datafile_new.csv        # Transformed dataset  ├── Project_1B_*.ipynb            # ETL and Cassandra notebook  ├── README.md                     # Project documentation   `
+├── event_data/                  # Raw CSV event files
+├── event_datafile_new.csv        # Transformed dataset
+├── Project_1B_*.ipynb            # ETL and Cassandra notebook
+├── README.md                     # Project documentation
+
 
 🛠️ Technologies Used
 ---------------------
